@@ -3,7 +3,7 @@ Practical example for tutorial found here: https://medium.com/@IMM9O/web-compone
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## To build reusable components
-Run rpm run `build:elements`. Use the generated files within the generated elements folder to be able to include the generated components in any file outside of this angular application
+Run `npm run build:elements`. Use the generated files within the generated elements folder to be able to include the generated components in any file outside of this angular application
 
 ## Development server
 
